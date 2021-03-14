@@ -1,3 +1,4 @@
+Update on 2021.2.4: New data, trained models, results and categories have been released! Old version data is not available now.
 # Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation (CVPR 2020)
 
 This project contains the implementation of our CVPR 2020 paper [arxiv](https://arxiv.org/pdf/2004.03572.pdf).
@@ -57,10 +58,25 @@ If you find this code useful for your research, please use the following BibTeX 
 ## Acknowledgment
 
 This repo is built based on the Mask R-CNN implementation from [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark), and we also use the pretrained Stereo R-CNN weight from [here](https://drive.google.com/file/d/1rZ5AsMms7-oO-VfoNTAmBFOr8O2L0-xt/view?usp=sharing) for initialization.
+The system architure figure is created with [Blender](https://www.blender.org/), feel free to reuse our [project file](https://mega.nz/file/Z1xhFSwD#tCYwKCGNaquv1pH6bbYe0hf_7AIs3yd53jg6_z3f_CU)! 
 
+## Copyright
+This work is affliated with ZJU-SenseTime Joint Lab of 3D Vision, and its intellectual property belongs to SenseTime Group Ltd.
 
-## License
+```
+Copyright SenseTime. All Rights Reserved.
 
-Copyright (c) 2020 3D Vision Group of State Key Lab at CAD&CG, Zhejiang University
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
 
 
